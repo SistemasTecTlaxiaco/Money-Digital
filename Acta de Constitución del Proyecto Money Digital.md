@@ -1,31 +1,10 @@
-# Acta de Constitución del Proyecto: Money Digital
-
-## Institución
-**Instituto Tecnológico de Tlaxiaco**  
-Ingeniería en Sistemas Computacionales  
-Boulevard Tecnológico Km. 2.5, Llano Yosovee  
-C.P. 69800, Tlaxiaco, Oaxaca.  
-Tel: (953) 55 21322 | (953) 55 20405  
-Correo: dir_tlaxiaco@tecnm.mx  
-Sitio web: [tecnm.mx](https://www.tecnm.mx)  
-
-## Asignatura
-**SCG - 1009 Gestión de Proyectos de Software**  
-Cátedra del Ing. Román Cruz José Alfredo  
-
-## Alumnos
-- **Cruz Ortiz Vanessa** – 22620060  
-- **Cruz Ramírez Jaczibeth** – 22620233  
-- **Velasco López Daniel** – 22620076  
-
-**Grupo:** 7BS  
-
-**Fecha:** Tlaxiaco, Oaxaca a 2 de septiembre de 2025  
-
+# **ACTA DE CONSTITUCIÓN DEL PROYECTO** #
 ---
-
+---
 ## Proyecto
 **Nombre:** Money Digital  
+
+---
 
 ### Descripción
 El *Sistema de Recompensas para Estudiantes del Tecnológico de Tlaxiaco* es una plataforma web que incentiva a los estudiantes a participar en actividades académicas y extracurriculares mediante la acumulación de puntos o tokens, que pueden ser canjeados por recompensas en establecimientos afiliados.
@@ -69,25 +48,35 @@ El *Sistema de Recompensas para Estudiantes del Tecnológico de Tlaxiaco* es una
 
 ## Roles y Responsabilidades
 ### Líder: **Daniel Velasco López**
+**Responsabilidades:**
 - Planificación y gestión del proyecto.  
-- Coordinación y comunicación del equipo.  
+- Coordinación y comunicación del equipo de desarrollo.  
 - Supervisión de avances.  
 
 ### Desarrollador de Contrato Inteligente: **Jaczibeth Cruz Ramírez**
+**Responsabilidades:**
 - Diseño, codificación y prueba de contratos inteligentes en la red Stellar.  
 - Asegurar movimientos seguros y fiables.  
 
 ### Analista de Requerimientos: **Daniel Velasco López**
+**Responsabilidades**
 - Recopilación y análisis de información.  
 - Documentación y validación de requerimientos.  
 - Comunicación constante con el equipo.  
 
 ### Control de Calidad: **Vanessa Cruz Ortiz**
+**Responsabilidades:**
 - Planeación y ejecución de pruebas de calidad.  
 - Identificación y reporte de errores.  
 - Garantizar cumplimiento de los objetivos establecidos.  
 
 ---
+## Recursos del pryecto
+**Recursos:**
+
+- Computadoras con entornos de desarrollo.
+- Repositorio GitHub para control de versiones.
+- Herramientas de diseño UML y de base de datos.
 
 ## Riesgos Iniciales
 - Fallas en la ejecución del contrato inteligente.  
