@@ -27,7 +27,7 @@ El *Sistema de Recompensas para Estudiantes del Tecnológico de Tlaxiaco* es una
 - Optimizar la experiencia de usuario.  
 - Fomentar la participación en actividades.  
 - Mantener actualizada la información de recompensas.  
-- Monitorear el desempeño del sistema.  
+- Monitorear el desempeño del sistema.
 
 ---
 
